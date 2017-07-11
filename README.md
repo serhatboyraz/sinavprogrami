@@ -3,4 +3,4 @@ Cumhuriyet Üniversitesi Sivas Meslek Yüksek Okulunda okurken sistem analiz ve 
 
 Detayları blogumdaki şu yazıdan okuyabilirsiniz:
 
-[a link](http://dotnetlife.com/2017/07/sinav-cizelgesi-takip-programi/)
+[Dotnetlife Sınav Çizelgesi Takip Programı | Php Phalcon](http://dotnetlife.com/2017/07/sinav-cizelgesi-takip-programi/)
